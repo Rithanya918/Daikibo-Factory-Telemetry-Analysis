@@ -67,6 +67,8 @@ Bar chart showing "Unhealthy" incidents by factory location, clearly identifying
 ### Sheet 2: Device Type Analysis  
 Bar chart breaking down machine failures by type, highlighting LaserCut as the primary failure point.
 
+<img width="1183" height="980" alt="Image" src="https://github.com/user-attachments/assets/cd900b12-1c6c-4405-9181-83bd0eaa7cd2" />
+
 ##  Key Insights
 
 1. **Concentrated Problem**: 93% of issues at one location stem from a single machine type
