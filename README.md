@@ -1,8 +1,10 @@
 # Daikibo Factory Telemetry Analysis
 
+<img width="1121" height="797" alt="Image" src="https://github.com/user-attachments/assets/e39bc4ca-bf24-4cdf-8e43-bb92665c8f45" />
+
 ## Project Overview
 
-This project analyzes telemetry data from Daikibo's global manufacturing operations to identify machine reliability issues and optimize factory performance. Using data collected from 4 factories across 3 countries during May 2021, we identified critical failure patterns and provided actionable recommendations.
+This project analyzes telemetry data from Daikibo's global manufacturing operations to identify machine reliability issues and optimize factory performance. Using data collected from 4 factories across 3 countries during May 2021, I identified critical failure patterns and provided actionable recommendations.
 
 ## Business Objectives
 
@@ -170,39 +172,7 @@ This project also includes an analysis of employee compensation equality across 
 - **Classification**: Fair (±10), Unfair (±11-20), Highly Discriminative (±21+)
 - **Results**: 19 Fair, 11 Unfair, 7 Highly Discriminative classifications
 
-## Contact
-
-**Project Lead**: [Your Name]
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [@yourusername](https://github.com/yourusername)
-
 ##  License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License
 
-## Acknowledgments
-
-- Daikibo technical team for data collection and unification
-- Factory operations teams for their cooperation
-- All contributors who helped improve this analysis
-
-## Documentation
-
-For more detailed information, see:
-- [Business Report](reports/business_report.md) - Full analysis and recommendations
-- [Data Dictionary](docs/data_dictionary.md) - Field definitions and data structure
-- [Methodology](docs/methodology.md) - Detailed analysis approach
-
----
-
-**Last Updated**: December 2025  
-**Status**:  Analysis Complete | Recommendations In Progress
-
----
-
-### Quick Links
-- [View Dashboard](analysis/dashboard.xlsx)
-- [View Visualizations](visualizations/)
-- [Read Full Report](reports/business_report.md)
-- [Equality Analysis](analysis/Task_5_Equality_Table.xlsx)
