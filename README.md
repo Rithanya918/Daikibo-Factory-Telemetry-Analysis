@@ -1,4 +1,4 @@
-# Daikibo Factory Telemetry Analysis
+# Deloitte-Factory-Telemetry-Analysis
 
 <img width="1121" height="797" alt="Image" src="https://github.com/user-attachments/assets/e39bc4ca-bf24-4cdf-8e43-bb92665c8f45" />
 
